@@ -71,7 +71,6 @@ button {
     width: 600px;
     border: 3px solid rgb(204,204,204);
     margin: 50px;
-    
 }
 
 .aquabox {
@@ -79,7 +78,6 @@ button {
     height: 75px;
     padding-left: 50px;
     padding-top: 50px;
-
 }
 
 
@@ -110,7 +108,6 @@ p {
     padding-right: 10px;
     width: 12.5px;
     height: 20px;
-
 }
 
 .gearicon {
@@ -118,12 +115,10 @@ p {
     height: 25px;
     padding-top: 10px;
     padding-right: 5px;
-    
 }
 .editprofile {
     color:rgb(100,128,172);
     text-decoration: underline;
-    
 }
 
 /* UserCard Section Ends Here! */
@@ -134,7 +129,6 @@ p {
     width: 600px;
     border: 3px solid rgb(204,204,204);
     margin: 50px;
-    
 }
 
 .edubox {
@@ -143,14 +137,12 @@ p {
     width: 600px;
     height: 50px;
     position: absolute;
-
 }
 
 .education {
     padding-left: 40px;
     padding-top: 5px;
     padding-bottom: 10px;
-    
 }
 
 .whitebox2 {
@@ -172,8 +164,6 @@ p {
     width: 500px;
     border: 3px solid rgb(204,204,204);
     margin: 50px;
-    
-
 }
 
 .connectionrequestsbox {
@@ -181,8 +171,6 @@ p {
     color: white;
     padding-top: 5px;
     padding-left: 10px;
-    
-
 }
 
 .connectionrequestbox h1 {
@@ -218,7 +206,6 @@ p {
 .requestrowleft img {
     border-radius: 50%;
     width: 60px;
-
 }
 
 .requestrowright {
@@ -247,7 +234,6 @@ p {
 
 .yourconnectionsbox h1 {
     margin: 0px;
-
 }
 
 .oval {
@@ -269,7 +255,6 @@ p {
     gap: 10px;
     padding-left: 10px;
     padding-bottom: 10px;
-    
 }
 
 .friends img {
@@ -284,7 +269,6 @@ p {
     align-items: center;
     padding-left: 20px;
     border-top: 3px solid rgb(204,204,204);
-
 }
 
 .viewmore a {
